@@ -4,10 +4,13 @@
 
 reactjs-starter is a ReactJS application bootstrapped with Vite and styled using Tailwind CSS. It serves as a foundation for building scalable and maintainable web applications with a comprehensive design system.
 
+This application now features an in-depth article titled "How a Game Business Empire Was Built", providing insights into the steps taken to build a successful game business.
+
 ## User Journeys
 
 1. [Welcome Screen](docs/user-journeys.md#welcome-screen) - Navigate through the initial welcome interface.
 2. [Get Started](docs/user-journeys.md#get-started) - Begin using the app with a guided setup.
+3. [Reading the Article](docs/journeys/reading-article.md) - Explore the detailed article on building a game business empire.
 
 ## Design System
 
