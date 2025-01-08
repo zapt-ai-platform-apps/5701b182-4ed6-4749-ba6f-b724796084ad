@@ -1,6 +1,6 @@
 import React from 'react';
 import Step from './Step';
-import stepsData from './stepsData';
+import stepsData from './stepsData.jsx';
 
 export default function Steps() {
   return (
